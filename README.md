@@ -5,7 +5,7 @@ The analysis was performed in order to determine if the ice cream shop business 
 
 ## Results
 The two sets of data are the result of the analysis, which are statistical summary indicators for temperature readings from all weather stations on June and December of all years. Here are mentioned tables: 
-[June_Temps](https://github.com/andgerashchenko/surfs_up/blob/e75d7ed5bc7e542bac843124480e80f6ffabbe96/Challenge/Resources/June_Temps.png
+[June_Temps](https://github.com/andgerashchenko/surfs_up/blob/e75d7ed5bc7e542bac843124480e80f6ffabbe96/Challenge/Resources/June_Temps.png)
 [December_Temps](https://github.com/andgerashchenko/surfs_up/blob/e75d7ed5bc7e542bac843124480e80f6ffabbe96/Challenge/Resources/December_Temps.png)
 
 Comparing this data we can define the following statements:
